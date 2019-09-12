@@ -7,7 +7,7 @@ window.Popper = require('popper.js').default;
  * for JavaScript based Bootstrap features such as modals and tabs. This
  * code may be modified to fit the specific needs of your application.
  */
-
+ 
 try {
     window.$ = window.jQuery = require('jquery');
 
