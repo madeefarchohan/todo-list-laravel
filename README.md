@@ -1,4 +1,4 @@
-# todo-list-laravelFollowing are the steps to run laravel code with vuejs front end.
+# Following are the steps to run laravel code with vuejs front end.
 
 git clone this url ( https://github.com/MadeefarAbbas/todo-list-laravel ).
 
